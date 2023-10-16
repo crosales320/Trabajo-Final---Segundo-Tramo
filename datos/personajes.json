@@ -1,0 +1,24 @@
+[
+    {
+        "codigo": "01",
+        "nombre": "Harry Potter",
+        "imagen": "../img/potter5.jpg",
+        "casa": "Gryffindor",
+        "descripcion": "Harry James Potter, nacido el 31 de Julio de 1980. Su caracteristica fisica mas intrigante, es una cicatriz con forma de relampago en su frente, la cual obtuvo cuando el Mago Oscuro Lord Voldemort intento asesinarlo cuando solo era un bebe de 1 aÃ±o de edad, mediante la maldicion asesina, Avada Kedavra. Voldemort asesino a los padres de Harry y destruyo su hogar la noche del 31 de Octubre de 1981. Harry es famoso dentro del mundo magico, por ser la unica persona que ha sobrevivido al Avada Kedavra, causando la caida de Lord Voldemort."
+    },
+    {
+        "codigo": "02",
+        "nombre": "Hermione Granger",
+        "imagen": "../img/hermione2.jpg",
+        "casa": "Gryffindor",
+        "descripcion": "Hermione es la chica más inteligente de su curso en el Colegio Hogwarts de Magia y Hechicería. Al igual que Harry y Ron pertenece a la casa de Gryffindor, pese a que el sombrero seleccionador consideró colocarla en Ravenclaw debido a sus prominentes capacidades intelectuales. Es de origen muggle: sus padres son ambos dentistas y no tienen ninguna relación con el mundo de los magos."
+    },
+    {
+        "codigo": "03",
+        "nombre": "Ron Weasley",
+        "imagen": "../img/ron.jpg",
+        "casa": "Gryffindor",
+        "descripcion": "Ronald Bilius Weasley, más conocido como Ron Weasley, asistió a su primer curso en Hogwarts, donde conoce a Harry y Hermione, y ayuda a Harry a salvar la Piedra Filosofal, probando su ingenio en el Ajedrez Mágico gigante. Los años siguientes permanece muy unido a sus dos amigos, Harry y Hermione, por diversos peligros que surgen en Hogwarts y fuera de él. Probablemente una de las mayores aventuras con sus amigos es en la que se embarcan en busca de los Horrocruxes de Voldemort y los cuales consiguen destruir. También participó en la batalla final de Hogwarts, donde perdió a uno de sus hermanos"
+    }
+
+]

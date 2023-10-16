@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(https://i.pinimg.com/736x/bd/5b/25/bd5b252e0c999cd5c2becb8c9a43dd9e.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.bodyDetalle{
+    background-image: url(../img/hogwarts.jpg);
+}
+
+.titulo {
+    text-align: center;
+}
+
+.info {
+    width: 100%;
+}
+
+.titulo h1{
+    background-color: aliceblue;
+    font-size: 70px;
+}
+
+.titulo h2{
+    color:white;
+}
+
+
+.personajes {
+    width: 130%;
+    text-align: center;
+    padding-left: 60px;
+}
+
+#tituloDetalle {
+    font-weight: bold;
+}
